@@ -12,20 +12,6 @@ The application is deployed on Streamlit Community Cloud.
 
 **Live Application:** https://customer-churn-prediction-lfppes4p8gxzysxesmdopc.streamlit.app/
 
-## Overview
-
-This project predicts whether a customer is likely to churn...
-
-
-
-## Live Demo
-
-The application is deployed on Streamlit Community Cloud.
-
-**Live Application:** https://customer-churn-prediction-lfppes4p8gxzysxesmdopc.streamlit.app/
-
-
-
 ## Features
 
 - Data preprocessing and cleaning
