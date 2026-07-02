@@ -6,6 +6,25 @@ This project predicts whether a customer is likely to churn using machine learni
 
 This project was developed to strengthen my understanding of the complete machine learning workflow, from data preprocessing and model training to deploying a predictive web application using Streamlit
 
+## Live Demo
+
+The application is deployed on Streamlit Community Cloud.
+
+**Live Application:** https://customer-churn-prediction-lfppes4p8gxzysxesmdopc.streamlit.app/
+
+## Overview
+
+This project predicts whether a customer is likely to churn...
+
+
+
+## Live Demo
+
+The application is deployed on Streamlit Community Cloud.
+
+**Live Application:** https://customer-churn-prediction-lfppes4p8gxzysxesmdopc.streamlit.app/
+
+
 
 ## Features
 
